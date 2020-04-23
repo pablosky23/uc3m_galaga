@@ -40,7 +40,7 @@ public class Constants {
 	public static final String PLAYERNAME = "Galaga"; // Nombre del jugador | Player Name
 	public static final String BOARDTITLE = "Galaga | Pablo Díaz-Heredero García"
 			+ "[Universidad Carlos III de Madrid]"; // Título de la ventana del juego
-	public static final String WELCOMEPHRASE = "[GALAGA | Pablo | uc3m 2018]" + "\n" + "\n"
+	public static final String WELCOMEPHRASE = "[GALAGA | Pablo DHG | uc3m 2018]" + "\n" + "\n"
 			+ "Type help and press Enter to see the" + "\n" + "Command List"; // Mensaje de bienvenida
 	public static final String PORTRAIT = "galagaLogo.png"; // Imagen del jugador [ubicada en images]
 
